@@ -16,3 +16,5 @@ Operators (IRC server administrators) must be configured manually. I have automa
 ```
 /oper nick password
 ```
+
+This elevates your privileges to operator.
