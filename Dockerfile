@@ -7,3 +7,4 @@ RUN rm -rf /var/cache/apk/*
 RUN adduser ircd-admin -u 1000 -S ircd-admin && \
     chown -R ircd-admin /home/ircd-admin/
 COPY entrypoint.sh /
+USER 1000
