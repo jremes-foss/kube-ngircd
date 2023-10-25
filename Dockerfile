@@ -9,3 +9,4 @@ RUN adduser ircd-admin -u 1000 -S ircd-admin && \
 COPY entrypoint.sh /
 RUN chmod +x /entrypoint.sh
 USER 1000
+CMD ["/entrypoint.sh"]
