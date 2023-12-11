@@ -4,6 +4,8 @@ This is a Kubernetes deployment file for nIRCd server.
 
 ## Requirements
 
+To install this software into your Kubernetes cluster, you need the following:
+
 ## Installation
 
 ## Technical specifications
