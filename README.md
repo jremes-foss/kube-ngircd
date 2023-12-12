@@ -6,6 +6,8 @@ This is a Kubernetes deployment file for nIRCd server.
 
 To install this software into your Kubernetes cluster, you need the following:
 
+- kubectl
+
 ## Installation
 
 ## Technical specifications
