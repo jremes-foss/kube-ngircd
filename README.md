@@ -7,7 +7,7 @@ This is a Kubernetes deployment file for nIRCd server.
 To install this software into your Kubernetes cluster, you need the following:
 
 - Any Linux or compatible operating system
-- kubectl
+- [kubectl](https://kubernetes.io/docs/reference/kubectl/)
 
 To install the server locally, you need a local Kubernetes cluster such as Minikube.
 
