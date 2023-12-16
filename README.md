@@ -9,7 +9,7 @@ To install this software into your Kubernetes cluster, you need the following:
 - Any Linux or compatible operating system
 - [kubectl](https://kubernetes.io/docs/reference/kubectl/)
 
-To install the server locally, you need a local Kubernetes cluster such as Minikube.
+To install the server locally, you need a local Kubernetes cluster such as [Minikube](https://minikube.sigs.k8s.io/docs/start/).
 
 ## Installation
 
