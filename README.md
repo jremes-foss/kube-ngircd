@@ -13,6 +13,8 @@ To install the server locally, you need a local Kubernetes cluster such as [Mini
 
 ## Installation
 
+
+
 ## Technical specifications
 
 This stack is powered by the following software.
