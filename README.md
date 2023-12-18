@@ -13,7 +13,10 @@ To install the server locally, you need a local Kubernetes cluster such as [Mini
 
 ## Installation
 
+First, download the repository:
 
+```bash
+```
 
 ## Technical specifications
 
