@@ -16,6 +16,7 @@ To install the server locally, you need a local Kubernetes cluster such as [Mini
 First, download the repository:
 
 ```bash
+git clone https://github.com/jremes-foss/BeeCTF.git
 ```
 
 ## Technical specifications
