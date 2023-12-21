@@ -19,6 +19,8 @@ First, download the repository:
 git clone https://github.com/jremes-foss/BeeCTF.git
 ```
 
+Then, browse into cloned folder.
+
 ## Technical specifications
 
 This stack is powered by the following software.
