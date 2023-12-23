@@ -21,7 +21,7 @@ git clone https://github.com/jremes-foss/BeeCTF.git
 
 Then, browse into cloned folder.
 
-After that, 
+After that, deploy the Kubernetes manifests.
 
 ## Technical specifications
 
