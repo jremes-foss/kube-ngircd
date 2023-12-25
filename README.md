@@ -19,7 +19,7 @@ First, download the repository:
 git clone https://github.com/jremes-foss/BeeCTF.git
 ```
 
-Then, browse into cloned folder. Manifests are in `kube` sub-folder.
+Then, browse into cloned folder. Manifests are in `kube` sub-folder. In this folder, you should apply the Kubernetes manifests in the following order:
 
 After that, deploy the Kubernetes manifests.
 
