@@ -16,7 +16,7 @@ To install the server locally, you need a local Kubernetes cluster such as [Mini
 First, download the repository:
 
 ```bash
-git clone https://github.com/jremes-foss/BeeCTF.git
+git clone https://github.com/jremes-foss/kube-nIRCd.git
 ```
 
 Then, browse into cloned folder. Manifests are in `kube` sub-folder. In this folder, you should apply the Kubernetes manifests in the following order:
