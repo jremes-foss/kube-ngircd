@@ -21,6 +21,8 @@ git clone https://github.com/jremes-foss/kube-nIRCd.git
 
 Then, browse into cloned folder. Manifests are in `kube` sub-folder. In this folder, you should apply the Kubernetes manifests in the following order:
 
+* Namespace
+
 After that, deploy the Kubernetes manifests.
 
 ## Technical specifications
