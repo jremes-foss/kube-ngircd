@@ -1,6 +1,6 @@
 # ngIRCd Kubernetes Deployment
 
-This is a Kubernetes deployment file for nIRCd server.
+This is a Kubernetes deployment file for ngIRCd server.
 
 ## Requirements
 
