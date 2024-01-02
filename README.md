@@ -23,6 +23,7 @@ Then, browse into cloned folder. Manifests are in `kube` sub-folder. In this fol
 
 * Namespace
 * Service
+* Deployment
 
 After that, deploy the Kubernetes manifests.
 
