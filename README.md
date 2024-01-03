@@ -25,8 +25,6 @@ Then, browse into cloned folder. Manifests are in `kube` sub-folder. In this fol
 * Service
 * Deployment
 
-After that, deploy the Kubernetes manifests.
-
 ## Technical specifications
 
 This stack is powered by the following software.
