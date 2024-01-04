@@ -25,6 +25,8 @@ Then, browse into cloned folder. Manifests are in `kube` sub-folder. In this fol
 * Service
 * Deployment
 
+Dockerfile is provided in case you wish to provide your own image.
+
 ## Technical specifications
 
 This stack is powered by the following software.
