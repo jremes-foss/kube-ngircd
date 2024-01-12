@@ -5,4 +5,5 @@ metadata:
   namespace: ircd
   labels:
     app: ircd
+spec:
 
