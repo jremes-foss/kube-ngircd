@@ -12,5 +12,6 @@ spec:
       name: ircd
       labels:
         app: ircd
-
+  spec:
+  
 
