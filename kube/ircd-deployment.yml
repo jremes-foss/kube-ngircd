@@ -13,5 +13,6 @@ spec:
       labels:
         app: ircd
   spec:
-  
+    containers:
+      
 
