@@ -14,5 +14,5 @@ spec:
         app: ircd
   spec:
     containers:
-      
+      - name: ircd
 
