@@ -15,4 +15,6 @@ spec:
   spec:
     containers:
       - name: ircd
+        image: TODO
+        
 
