@@ -16,5 +16,5 @@ spec:
     containers:
       - name: ircd
         image: TODO
-        
+        imagePullPolicy: Always
 
