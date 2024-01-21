@@ -17,4 +17,5 @@ spec:
       - name: ircd
         image: TODO
         imagePullPolicy: Always
+    restartPolicy: Always
 
