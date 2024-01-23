@@ -19,5 +19,5 @@ spec:
         imagePullPolicy: Always
     restartPolicy: Always
   selector:
-  
+    matchLabels:
 
