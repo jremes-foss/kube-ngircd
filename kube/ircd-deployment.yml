@@ -20,4 +20,5 @@ spec:
     restartPolicy: Always
   selector:
     matchLabels:
+      app: ircd
 
