@@ -27,6 +27,8 @@ Then, browse into cloned folder. Manifests are in `kube` sub-folder. In this fol
 
 Syntax below:
 
+```bash
+```
 
 `Dockerfile` is provided in case you wish to provide your own image. Please tag and upload the image to remote repository and change the URL.
 
