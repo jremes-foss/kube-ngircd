@@ -33,6 +33,10 @@ kubectl -n namespace-here apply -f namespace.yml
 
 For service:
 
+```bash
+
+```
+
 `Dockerfile` is provided in case you wish to provide your own image. Please tag and upload the image to remote repository and change the URL.
 
 ## Technical specifications
