@@ -34,7 +34,7 @@ kubectl -n namespace-here apply -f namespace.yml
 For service:
 
 ```bash
-
+kubectl -n namespace-here apply -f ircd-service.yml
 ```
 
 `Dockerfile` is provided in case you wish to provide your own image. Please tag and upload the image to remote repository and change the URL.
