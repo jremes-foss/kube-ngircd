@@ -39,6 +39,9 @@ kubectl -n namespace-here apply -f ircd-service.yml
 
 For deployment:
 
+```bash
+```
+
 `Dockerfile` is provided in case you wish to provide your own image. Please tag and upload the image to remote repository and change the URL.
 
 ## Technical specifications
