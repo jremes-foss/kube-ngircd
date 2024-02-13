@@ -62,6 +62,8 @@ Operators (IRC server administrators) must be configured manually. I have automa
 ./makeoperator.sh administrator
 ```
 
+### Elevate Privileges to Operator
+
 If you want to log in as operator, read the password from `ngircd.conf` file and then type in your IRC client after logging to server:
 
 ```
