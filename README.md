@@ -1,6 +1,6 @@
 # ngIRCd Kubernetes Deployment
 
-This is a Kubernetes deployment repository for ngIRCd server.
+This is a Kubernetes deployment repository for [ngIRCd]() server.
 
 ## Requirements
 
