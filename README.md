@@ -52,7 +52,7 @@ kubectl -n namespace-here apply -f ircd-deployment.yml
 This stack is powered by the following software.
 
 - Operating System: [Alpine Linux 3.18](https://www.alpinelinux.org/)
-- IRC server: ngIRCd 26.1
+- IRC server: [ngIRCd 26.1]()
 
 ## Configuration
 
