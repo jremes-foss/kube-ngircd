@@ -15,7 +15,7 @@ spec:
   spec:
     containers:
       - name: ircd
-        image: TODO
+        image: docker.io/jremesfoss/ngircd:v0.1
         imagePullPolicy: Always
     restartPolicy: Always
   selector:
