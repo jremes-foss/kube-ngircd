@@ -1,5 +1,7 @@
 # ngIRCd Kubernetes Deployment
 
+> Level up your small IRC network: Deploy it on Kubernetes.
+
 This is a Kubernetes deployment repository for [ngIRCd](https://github.com/ngircd/ngircd) server.
 
 ## Requirements
