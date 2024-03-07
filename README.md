@@ -6,6 +6,13 @@ This is a Kubernetes deployment repository for [ngIRCd](https://github.com/ngirc
 
 ## Description
 
+This repository provides a Kubernetes deployment for running a scalable and secure ngIRCd server, ideal for hobbyists and businesses. ngIRCd is a popular Open Source IRC server daemon know for its stability and modular design.
+
+This repository caters to users who want to:
+
+- Set up a private IRC server for their community or group.
+- Explore ngIRCd administration in a Kubernetes environment.
+- Learn about deploying applications on Kubernetes.
 
 ## Requirements
 
