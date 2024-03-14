@@ -85,3 +85,5 @@ If you want to log in as operator, read the password from `ngircd.conf` file and
 ```
 
 This elevates your privileges to operator.
+
+## License
