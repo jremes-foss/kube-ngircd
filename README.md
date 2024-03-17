@@ -88,6 +88,6 @@ This elevates your privileges to operator.
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the [MIT License]() - see the LICENSE file for details.
 
 The MIT License is a permissive open-source license that allows for for-profit and non-profit use, redistribution, and modification of the software. By contributing to this project, you agree to the terms of the MIT License.
