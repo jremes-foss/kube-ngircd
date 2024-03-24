@@ -39,7 +39,7 @@ Then, browse into cloned folder. Manifests are in `kube` sub-folder. In this fol
 * Service
 * Deployment
 
-Syntax below:
+For namespace, please use following syntax below:
 
 ```bash
 kubectl -n namespace-here apply -f namespace.yml
