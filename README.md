@@ -57,7 +57,7 @@ For deployment:
 kubectl -n namespace-here apply -f ircd-deployment.yml
 ```
 
-`Dockerfile` is provided in case you wish to provide your own image. Please tag and upload the image to remote repository and change the URL. Link to default ngIRCd image is [here](https://hub.docker.com/r/jremesfoss/ngircd).
+`Dockerfile` is provided in case you wish to provide your own image. Please tag and upload the image to remote repository and change the URL. Link to default ngIRCd image is [here](https://hub.docker.com/r/jremesfoss/ngircd). This ngIRCd image is maintained as part of the repository.
 
 ## Technical specifications
 
