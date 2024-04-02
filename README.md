@@ -42,7 +42,7 @@ Then, browse into cloned folder. Manifests are in `kube` sub-folder. In this fol
 For namespace, please use following syntax below:
 
 ```bash
-kubectl -n namespace-here apply -f namespace.yml
+kubectl -n namespace-here apply -f ngircd-namespace.yml
 ```
 
 For service:
