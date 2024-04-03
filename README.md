@@ -48,7 +48,7 @@ kubectl -n namespace-here apply -f ngircd-namespace.yml
 For service:
 
 ```bash
-kubectl -n namespace-here apply -f ircd-service.yml
+kubectl -n namespace-here apply -f ngircd-service.yml
 ```
 
 For deployment:
