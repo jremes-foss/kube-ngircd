@@ -68,6 +68,8 @@ This stack is powered by the following software.
 
 ## Configuration
 
+Main configuration is in `ngircd.conf` which sets the default parameters. This file is part of the `Dockerfile`.
+
 ### Operator Configuration
 
 Operators (IRC server administrators) must be configured manually. I have automated this process with `makeoperator.sh` shell script. This script takes the operator nick as first positional argument and then automatically generates a password with `uuidgen` binary. Example below:
