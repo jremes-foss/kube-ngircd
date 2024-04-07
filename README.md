@@ -18,7 +18,7 @@ This repository caters to users who want to:
 
 To install this software into your Kubernetes cluster, you need the following:
 
-- Any Linux or compatible operating system such as [FreeBSD]().
+- Any Linux or compatible operating system such as [FreeBSD](https://www.freebsd.org/).
 - [kubectl](https://kubernetes.io/docs/reference/kubectl/).
 
 To install the server locally, you need a local Kubernetes cluster such as [Minikube](https://minikube.sigs.k8s.io/docs/start/). Otherwise, you can use any remote context you may have at your disposal.
