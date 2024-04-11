@@ -9,6 +9,6 @@ spec:
   ports:
     - port: 6667
       protocol: TCP
-    selector:
-      app: ngircd
-    type: NodePort
+  selector:
+    app: ngircd
+  type: NodePort
