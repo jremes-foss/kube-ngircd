@@ -12,12 +12,12 @@ spec:
       name: ngircd
       labels:
         app: ngircd
-  spec:
-    containers:
-      - name: ngircd
-        image: docker.io/jremesfoss/ngircd:v0.1
-        imagePullPolicy: Always
-    restartPolicy: Always
+    spec:
+      containers:
+        - name: ngircd
+          image: docker.io/jremesfoss/ngircd:v0.1
+          imagePullPolicy: Always
+      restartPolicy: Always
   selector:
     matchLabels:
       app: ngircd
