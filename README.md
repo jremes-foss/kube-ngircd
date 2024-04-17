@@ -88,6 +88,8 @@ If you want to log in as operator, read the password from `ngircd.conf` file and
 
 This elevates your privileges to operator.
 
+## Connecting from Localhost
+
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/license/mit), please see the LICENSE file for details.
