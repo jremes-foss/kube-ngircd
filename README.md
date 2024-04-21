@@ -94,7 +94,7 @@ This elevates your privileges to operator.
 
 ### Ingress
 
-
+This feature will be implemented as part of later iteration.
 
 ## License
 
