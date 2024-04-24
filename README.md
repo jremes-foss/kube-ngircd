@@ -92,6 +92,7 @@ This elevates your privileges to operator.
 
 ### Port Forwarding
 
+In order to gain access to port forwarding, use the following kubectl syntax:
 
 
 ### Ingress
