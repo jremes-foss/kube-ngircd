@@ -95,6 +95,7 @@ This elevates your privileges to operator.
 In order to gain access to port forwarding, use the following kubectl syntax:
 
 ```bash
+
 ```
 
 ### Ingress
