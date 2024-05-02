@@ -102,7 +102,7 @@ kubectl port-forward pods/pod-here 6667:6667
 
 ### Ingress
 
-This feature will be implemented as part of later iteration.
+Ingress feature will be implemented as part of later iteration.
 
 ## License
 
