@@ -97,7 +97,7 @@ Currently, the way to access the IRC server via client is through port-forwardin
 In order to gain access to port forwarding, use the following kubectl syntax:
 
 ```bash
-kubectl port-forward pods/pod-here 6667:6667
+kubectl port-forward pods/pod-here local-port:target-port
 ```
 
 ### Ingress
