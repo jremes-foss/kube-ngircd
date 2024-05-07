@@ -90,7 +90,7 @@ This elevates your privileges to operator.
 
 ## Connecting from Localhost
 
-Currently, the way to access the IRC server via client is through port-forwarding. Ingress to access the server directly will be added in later iteration.
+Currently, the way to access the IRC server via client is through port-forwarding. Ingress to access the server directly via ingress will be added in later iteration.
 
 ### Port Forwarding
 
