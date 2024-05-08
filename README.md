@@ -102,7 +102,7 @@ kubectl port-forward pods/pod-here local-port:target-port
 
 ### Ingress
 
-Internal ingress feature will be implemented as part of later iteration.
+Internal ingress feature will be implemented as part of later iteration. This feature can be used for internal office use.
 
 ## License
 
