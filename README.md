@@ -100,6 +100,8 @@ In order to gain access to port forwarding, use the following kubectl syntax:
 kubectl port-forward pods/pod-here local-port:target-port
 ```
 
+Alternatively, you may let kubectl to choose and allocate the local port:
+
 ### Ingress
 
 Internal ingress feature will be implemented as part of later iteration. This feature can be used for internal office use.
