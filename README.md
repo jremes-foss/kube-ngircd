@@ -103,6 +103,7 @@ kubectl port-forward pods/pod-here local-port:target-port
 Alternatively, you may let kubectl to choose and allocate the local port:
 
 ```bash
+kubectl port-forward pods/pod-here :target-port
 ```
 
 ### Ingress
