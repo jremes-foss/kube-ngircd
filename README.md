@@ -102,6 +102,9 @@ kubectl port-forward pods/pod-here local-port:target-port
 
 Alternatively, you may let kubectl to choose and allocate the local port:
 
+```bash
+```
+
 ### Ingress
 
 Internal ingress feature will be implemented as part of later iteration. This feature can be used for internal office use.
