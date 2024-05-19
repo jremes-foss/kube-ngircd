@@ -106,7 +106,7 @@ Alternatively, you may let kubectl to choose and allocate the local port:
 kubectl port-forward pods/pod-here :target-port
 ```
 
-### Ingress
+### Acess from Outside Cluster
 
 Internal ingress feature will be implemented as part of later iteration. This feature can be used for internal office use.
 
