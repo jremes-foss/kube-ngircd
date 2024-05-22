@@ -110,6 +110,9 @@ kubectl port-forward pods/pod-here :target-port
 
 In order to connect to the server outside the cluster, you need to expose the deployment.
 
+```bash
+```
+
 ## TODO
 - Add access from outside the cluster.
 
