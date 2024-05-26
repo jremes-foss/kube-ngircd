@@ -114,9 +114,6 @@ In order to connect to the server outside the cluster, you need to expose the de
 kubectl -n ngircd expose deployment ngircd --port=6667 --target-port=6667 --type=NodePort --name=ngircd-svc
 ```
 
-## TODO
-- Add access from outside the cluster.
-
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/license/mit), please see the LICENSE file for details.
