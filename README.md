@@ -111,6 +111,7 @@ kubectl port-forward pods/pod-here :target-port
 In order to connect to the server outside the cluster, you need to expose the deployment.
 
 ```bash
+kubectl -n ngircd expose deployment ngircd --port=6667 --target-port=6667 --type=NodePort --name=ngircd-svc
 ```
 
 ## TODO
