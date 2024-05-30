@@ -106,7 +106,7 @@ Alternatively, you may let kubectl to choose and allocate the local port:
 kubectl port-forward pods/pod-here :target-port
 ```
 
-### Acess from Outside Cluster
+### Access from Outside Cluster
 
 In order to connect to the server from outside the cluster, you need to expose the service.
 
