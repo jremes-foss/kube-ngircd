@@ -108,7 +108,7 @@ kubectl port-forward pods/pod-here :target-port
 
 ### Access from Outside Cluster
 
-In order to connect to the server from outside the cluster, you need to expose the service via following kubectl syntax.
+In order to connect to the server from outside the cluster, you need to expose the service via following `kubectl` syntax.
 
 ```bash
 kubectl -n ngircd expose deployment ngircd --port=6667 --target-port=6667 --type=NodePort --name=ngircd-svc
