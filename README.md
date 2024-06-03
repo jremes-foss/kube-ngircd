@@ -106,12 +106,13 @@ Alternatively, you may let kubectl to choose and allocate the local port:
 kubectl port-forward pods/pod-here :target-port
 ```
 
-### Acess from Outside Cluster
+### Access from Outside Cluster
 
-Internal ingress feature will be implemented as part of later iteration. This feature can be used for internal office use.
+In order to connect to the server from outside the cluster, you need to expose the service via following `kubectl` syntax.
 
-## TODO
-- Add access from outside the cluster.
+```bash
+kubectl -n ngircd expose deployment ngircd --port=6667 --target-port=6667 --type=NodePort --name=ngircd-svc
+```
 
 ## License
 
