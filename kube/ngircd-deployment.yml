@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: ngircd
-          image: docker.io/jremesfoss/ngircd:v0.1
+          image: docker.io/jremesfoss/ngircd:v0.2
           imagePullPolicy: Always
       restartPolicy: Always
   selector:
