@@ -88,32 +88,6 @@ If you want to log in as operator, read the password from `ngircd.conf` configur
 
 This elevates your privileges to operator.
 
-## Connecting from Localhost
-
-Currently, the way to access the IRC server via client is through port-forwarding. Ingress to access the server directly via ingress will be added in later iteration.
-
-### Port Forwarding
-
-In order to gain access to port forwarding, use the following kubectl syntax:
-
-```bash
-kubectl port-forward pods/pod-here local-port:target-port
-```
-
-Alternatively, you may let kubectl to choose and allocate the local port:
-
-```bash
-kubectl port-forward pods/pod-here :target-port
-```
-
-### Access from Outside Cluster
-
-In order to connect to the server from outside the cluster, you need to expose the service via following `kubectl` syntax.
-
-```bash
-kubectl -n ngircd expose deployment ngircd --port=6667 --target-port=6667 --type=NodePort --name=ngircd-svc
-```
-
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/license/mit), please see the LICENSE file for details.
