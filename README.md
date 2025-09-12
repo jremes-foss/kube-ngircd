@@ -88,6 +88,24 @@ If you want to log in as operator, read the password from `ngircd.conf` configur
 
 This elevates your privileges to operator.
 
+## Client Connection
+
+### Internal Network
+
+This Kubernetes deployment uses NodePort. For the port assignment, please check the service NodePort first.
+
+```
+kubectl -n ngircd get svc -o wid
+```
+
+Then, check the Internal IP with kubectl:
+
+```
+kubectl get nodes -o wide
+```
+
+Connect to `INTERNAL-IP` using the NodePort.
+
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/license/mit), please see the LICENSE file for details.
