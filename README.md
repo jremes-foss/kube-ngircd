@@ -95,7 +95,7 @@ This elevates your privileges to operator.
 This Kubernetes deployment uses NodePort. For the port assignment, please check the service NodePort first.
 
 ```
-kubectl -n ngircd get svc -o wid
+kubectl -n ngircd get svc -o wide
 ```
 
 Then, check the Internal IP with kubectl:
