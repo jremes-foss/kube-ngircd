@@ -68,7 +68,7 @@ This stack is powered by the following software.
 
 ## Configuration
 
-Main configuration is in `ngircd.conf` which sets the default parameters. This file is part of the `Dockerfile`. Initially the deployment is configured to use ClusterPort, with `6667/tcp` as a default setting.
+Main configuration is in `ngircd.conf` which sets the default parameters. This file is part of the `Dockerfile`.
 
 ### Operator Configuration
 
