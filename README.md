@@ -106,6 +106,10 @@ kubectl get nodes -o wide
 
 Connect to `INTERNAL-IP` using the NodePort.
 
+### Public Internet
+
+Use either a cloud environment such as AWS or [MetalLB](https://metallb.io/).
+
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/license/mit), please see the LICENSE file for details.
