@@ -108,7 +108,7 @@ Connect to `INTERNAL-IP` using the NodePort.
 
 ### Public Internet
 
-Use either a cloud environment such as AWS or [MetalLB](https://metallb.io/).
+In order to allow the connection from public Internet you should use a load balancer. Please use either a cloud environment such as AWS or [MetalLB](https://metallb.io/).
 
 ## License
 
