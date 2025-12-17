@@ -27,6 +27,12 @@ For development purposes, you need container orchestration tool such as [Podman]
 
 ## Installation
 
+### Automatic Installation
+
+The easy way: use [automatic installation script](https://github.com/jremes-foss/install-kube-ngircd).
+
+### Manual Installation
+
 First, download the repository:
 
 ```bash
